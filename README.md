@@ -1,4 +1,4 @@
-# parallax_scrol
+# parallax_scroll
 My first full site, using inspiration from online sources (credited in README)
 
 YouTube tutorial for home page:
