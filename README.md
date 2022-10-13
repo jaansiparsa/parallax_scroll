@@ -1,4 +1,4 @@
-# youtube_tutorial
+# parallax_scrol
 My first full site, using inspiration from online sources (credited in README)
 
 YouTube tutorial for home page:
