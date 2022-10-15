@@ -1,5 +1,5 @@
 # parallax_scroll
-My first (hopefully soon) full site, using inspiration from online sources (credited in README)
+youtube project thingy
 
 YouTube tutorial for home page:
 https://www.youtube.com/watch?v=1wfeqDyMUx4
